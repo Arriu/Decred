@@ -46,4 +46,5 @@ Het verhaal over de oorspong van Decred heeft dan wel onze start vorm gegeven, m
 
 Decred is een cryptocurrency geworden die progressief van aard is. Dankzij het unieke bestuurssysteem kan het snel evolueren volgens de wensen van de stakeholders. De [voorspelde verwezelijkingen](https://blog.decred.org/2017/01/09/2017-Decred-Roadmap/) voor 2017 zijn nu voor meer dan 50% voltooid en integratie in het Lightning Network is om de hoek. Nu de eerste on-chain stemming ooit [bijna ten einde](https://voting.decred.org/) is, wordt één ding duidelijk – de toekomst van Decred ligt in onze handen.
 
-Deze tekst werd oorspronkelijk gepubliceerd op 10 juni 2016, vertaling door Jazzah
+Deze tekst werd oorspronkelijk gepubliceerd op 10 juni 2016 op het volgende adres: https://thedecreddigest.com/2017/06/10/decred-where-did-it-all-begin/
+vertaling door Jazzah
