@@ -1,4 +1,4 @@
-## Gedetailleerde analyse van Decred's resistentie tegen het splitsen van de blockchain (fork resistance)
+## Gedetailleerde analyse van Decreds resistentie tegen het splitsen van de blockchain (fork resistance)
 
 Het is geen geheim meer dat zuivere PoW netwerken kwetsbaar zijn voor afsplitsingen (forks). We zijn getuige geweest van de creatie van verschillende "nieuwe" munten doordat een minderheidsgroep binnen het oorsponkelijke netwerk afsplitste, waaronder Ethereum Classic, Bitcoin Gold, Bitcoin Cash en Bitcoin SV. 
 
