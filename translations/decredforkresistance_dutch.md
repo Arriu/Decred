@@ -8,7 +8,7 @@ Als je een opfrisser nodigd hebt waarom splitsingen best vermeden worden kan je 
 
 ### Voorbereidende kennis
 
-Het Decred netwerk wordt beveiligd door zowel PoW miners als PoS stemmers. Het PoS stemsysteem werkt door bepaalde hoeveelheden munten vast te zetten in wat een _stemm ticket_ wordt genoemd. Deze tickets fungeren als de fundamentele bouwstenen waarmee stakeholders kunnen deelnemen aan het [bestuur van Decred](https://docs.decred.org/governance/introduction-to-decred-governance/).
+Het Decred netwerk wordt beveiligd door zowel PoW miners als PoS stemmers. Het PoS stemsysteem werkt door bepaalde hoeveelheden munten vast te zetten in wat een _stem ticket_ wordt genoemd. Deze tickets fungeren als de fundamentele bouwstenen waarmee stakeholders kunnen deelnemen aan het [bestuur van Decred](https://docs.decred.org/governance/introduction-to-decred-governance/).
 
 Per blok zijn maximaal 20 nieuwe tickets beschikbaar. Eénmaal verworven is er een wachttijd van 256 blokken waarna het ticket in de live ticketpool wordt geplaatst. Deze pool (een verzameling van alle live tickets op de blockchain) heeft een streefdoel van 40960 tickets, maar kan groeien of krimpen tijdens zijn werking. De prijs voor een ticket (aka PoS difficulty) wordt aangepast via vraag en aanbod om zo de grootte van 40960 te behouden. Het algoritme dat de ticketprijs bepaald staat beschreven in [DCP0001](https://github.com/decred/dcps/blob/master/dcp-0001/dcp-0001.mediawiki).
 
