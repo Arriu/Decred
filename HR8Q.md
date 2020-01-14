@@ -33,7 +33,7 @@ btcd (used for developing lnd) https://github.com/btcsuite/btcd
 https://docs.decred.org/advanced/premine/
 
 ###Anon or known developers (Twitter Handles are fine):
-https://github.com/Decred
+https://github.com/orgs/decred/people
 
 ###Privacy Protocol:
 CoinShuffle++ 
