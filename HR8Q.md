@@ -11,7 +11,7 @@ DCR
 ###Market Cap: 
 21,677 BTC ($190,013,916 USD)
 
-https://coinmarketcap.com/currencies/decred/ 14/01/2020]
+https://coinmarketcap.com/currencies/decred/ 14/01/2020
 
 ###Exchanges: 
 In alphabetic order
