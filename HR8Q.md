@@ -52,7 +52,7 @@ Not by default atm, but once its available in the GUI that can always be brought
 ###% tx Anon:
 16.4 
 
-[https://twitter.com/_Checkmatey_/status/1215339611389661184
+https://twitter.com/_Checkmatey_/status/1215339611389661184
 
 ###Wallets:
 https://decred.org/wallets/
