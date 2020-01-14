@@ -127,7 +127,11 @@ https://docs.decred.org/governance/decred-constitution/
 
 ###Important links?
 https://decred.org
+
 https://docs.decred.org
+
 https://docs.decred.org/getting-started/reading-list/
+
 https://explorer.dcrdata.org/
+
 https://proposals.decred.org
