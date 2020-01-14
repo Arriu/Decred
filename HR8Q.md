@@ -126,6 +126,7 @@ https://docs.decred.org/governance/decred-constitution/
 ###Any additional final thoughts you want to include?
 
 ###Important links?
+
 https://decred.org
 
 https://docs.decred.org
